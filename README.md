@@ -4,8 +4,9 @@
 </h3>
 <h1>About Me</h1>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZu8xv7lSgCz1CU6hzgDRJM7gQRvXiMQp_g&s" data-theme="light" />
-<img src="https://images.unsplash.com/photo-1530631673369-bc20fdb32288?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" data-theme="dark" />
+![Gambar terang](https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/117/2023/11/30/Screenshot-173-2238099686.png#gh-light-mode-only)
+![Gambar gelap](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3A8SAgm5CrVIAOX7SzKeCNfibpq5vCNIokg&s#gh-dark-mode-only)
+
 
 
 
