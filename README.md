@@ -1,3 +1,16 @@
+![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
+<h3 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Hi+Everyone!%F0%9F%91%8B;+I'm+Muhammad+Maulana+Khanif!" alt="Typing SVG" /></a>
+</h3>
+<h1>About Me</h1>
+
+
+
+- 🌱 I’m currently learning **Python and SQL**
+
+- 📫 How to reach me **anieplana@gmail.com**
+
+- ⚡ Fun fact **I am Batman**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadkaaa_) 
@@ -8,7 +21,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=inikanipp&theme=bear&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=inikanipp&theme=bear&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=inikanipp&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+## 🌐 I'm Listening To:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31442su2rsqsj6xhnd2ffdtjeury&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=2ecbff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
