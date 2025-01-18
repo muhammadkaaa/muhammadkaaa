@@ -4,8 +4,11 @@
 </h3>
 <h1>About Me</h1>
 
-![Gambar terang](https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/117/2023/11/30/Screenshot-173-2238099686.png#gh-light-mode-only)
-![Gambar gelap](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3A8SAgm5CrVIAOX7SzKeCNfibpq5vCNIokg&s#gh-dark-mode-only)
+<picture>
+  <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJjzdLJcjlu7aC3VifiAvMjSs0dXs7uGJahw&s" media="(prefers-color-scheme: dark)" />
+  <source srcset="gambar-light.png" media="(prefers-color-scheme: light)" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3A8SAgm5CrVIAOX7SzKeCNfibpq5vCNIokg&s" alt="Gambar sesuai tema" />
+</picture>
 
 
 
