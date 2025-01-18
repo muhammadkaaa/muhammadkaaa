@@ -6,7 +6,7 @@
 
 <picture>
   <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJjzdLJcjlu7aC3VifiAvMjSs0dXs7uGJahw&s" media="(prefers-color-scheme: dark)" />
-  <source srcset="gambar-light.png" media="(prefers-color-scheme: light)" />
+  <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3A8SAgm5CrVIAOX7SzKeCNfibpq5vCNIokg&s" media="(prefers-color-scheme: light)" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3A8SAgm5CrVIAOX7SzKeCNfibpq5vCNIokg&s" alt="Gambar sesuai tema" />
 </picture>
 
