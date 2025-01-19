@@ -1,6 +1,10 @@
 ![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 <h3 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Hi+Everyone!%F0%9F%91%8B;+I'm+Muhammad+Maulana+Khanif!" alt="Typing SVG" /></a>
+<picture>
+  <source srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Hi+Everyone!%F0%9F%91%8B;+I'm+Muhammad+Maulana+Khanif!" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=700&height=70&lines=Hi+Everyone!%F0%9F%91%8B;+I'm+Muhammad+Maulana+Khanif!" media="(prefers-color-scheme: light)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=700&height=70&lines=Hi+Everyone!%F0%9F%91%8B;+I'm+Muhammad+Maulana+Khanif!" alt="Gambar sesuai tema" />
+</picture>
 </h3>
 <h1>About Me</h1>
 
