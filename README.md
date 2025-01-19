@@ -49,15 +49,10 @@
 
 </div>
 
-<div align="center">
+
   
-## 📊 GitHub Stats:
+<h2 align="center"> 📊 GitHub Stats: </h2>
 
-![](https://github-readme-stats.vercel.app/api?username=inikanipp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=inikanipp&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=inikanipp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
 <table>
   <tr>
     <td>
@@ -68,7 +63,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td align="center" colspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inikanipp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
     </td>
   </tr>
