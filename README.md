@@ -10,19 +10,33 @@
 
 
 
+<img align="right" width = "400px" src="https://i.pinimg.com/originals/1c/07/97/1c0797d3bee19d5a996bd60589f03577.gif" />
 
 
-<span>
+
 🌱 I’m currently learning **Python and SQL**
 
 📫 How to reach me **anieplana@gmail.com**
 
 ⚡ Fun fact **I am Batman**
-</span>
-<img width = "300px" src="https://i.pinimg.com/originals/1c/07/97/1c0797d3bee19d5a996bd60589f03577.gif" />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div></div>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadkaaa_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadkaaa_)
+
+
 
 <h2  align="center"> Languages & Tools I Have place My Hands On </h2>
 
