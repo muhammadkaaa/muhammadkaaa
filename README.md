@@ -10,7 +10,7 @@
 
 
 
-<img align="right" width = "400px" src="https://i.pinimg.com/originals/1c/07/97/1c0797d3bee19d5a996bd60589f03577.gif" />
+<img align="right" width = "300px" src="https://i.pinimg.com/originals/1c/07/97/1c0797d3bee19d5a996bd60589f03577.gif" />
 
 
 
@@ -26,11 +26,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <div></div>
 
 ## 🌐 Socials:
