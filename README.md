@@ -8,20 +8,18 @@
 </h3>
 <h1>About Me</h1>
 
-<picture>
-  <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJjzdLJcjlu7aC3VifiAvMjSs0dXs7uGJahw&s" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3A8SAgm5CrVIAOX7SzKeCNfibpq5vCNIokg&s" media="(prefers-color-scheme: light)" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3A8SAgm5CrVIAOX7SzKeCNfibpq5vCNIokg&s" alt="Gambar sesuai tema" />
-</picture>
 
 
 
 
-- 🌱 I’m currently learning **Python and SQL**
+<span>
+🌱 I’m currently learning **Python and SQL**
 
-- 📫 How to reach me **anieplana@gmail.com**
+📫 How to reach me **anieplana@gmail.com**
 
-- ⚡ Fun fact **I am Batman**
+⚡ Fun fact **I am Batman**
+</span>
+<img width = "300px" src="https://i.pinimg.com/originals/1c/07/97/1c0797d3bee19d5a996bd60589f03577.gif" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadkaaa_) 
